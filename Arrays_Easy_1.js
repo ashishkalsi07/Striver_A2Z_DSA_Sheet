@@ -1,4 +1,4 @@
-const array = [2,2,3,4,9,9]
+const array = [2,2,3,4,9,9]  // define an array
 
 function remove_Duplicates(arr){
     const uniqueElements = [];
