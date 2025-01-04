@@ -1,4 +1,4 @@
-const arr=[1,2,3,4,5,6]
+const arr=[1,2,3,4,5,6]   //define array here
 new_arr=arr.filter((num,index)=> num !== arr[index-1])
 console.log(new_arr)
 
