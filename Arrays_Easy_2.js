@@ -1,4 +1,4 @@
-const arr = [10,20,3,84,50,56,7777,8,9]
+const arr = [10,20,3,84,50,56,7777,8,9]  // define array here 
 function SecondLargestArray(){
     let max=0
     let secondmax=0    
